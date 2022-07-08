@@ -16,3 +16,11 @@ This data set includes information regarding the present values of different ele
 ## Analysis
 
 #### Distribution of Potability in data
+
+![image](https://user-images.githubusercontent.com/103547154/177974125-423da11a-c696-414a-b60d-fb1dcf331436.png)
+
+This histogram shows us the distribution of "Potable" vs "Non-Potable" water. We can see that we have 2000 values in favor of "Non-Potable" and 1300 values in favor of "Potable" which shows us that our data is slightly unbalanced in favor of "Non-Potable" values. 
+
+
+
+
