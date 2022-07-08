@@ -21,9 +21,15 @@ This data set includes information regarding the present values of different ele
 
 This histogram shows us the distribution of "Potable" vs "Non-Potable" water. We can see that we have 2000 values in favor of "Non-Potable" and 1300 values in favor of "Potable" which shows us that our data is slightly unbalanced in favor of "Non-Potable" values. 
 
+
 #### Distribution of Features by "Potability" 
 ![download](https://user-images.githubusercontent.com/103547154/177975361-318f70a5-533e-4470-8cba-4350293454e7.png)
 
 This Kernel Density Plot shows us that our "Non-Potable" water shares very similar values in it's features as our "Potable" water. With this being the case, I'd assume we'll have little luck determining meaningful relationships between features to our potability.
 
 
+#### How Our Features Interact:
+
+**note** I have a parallel coordinates plot via plotly in my code but am having issues figuring out how get this to upload as an interactive chart, I will do my best to research and submit ASAP 
+
+## Modeling Method Decision
